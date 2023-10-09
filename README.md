@@ -2,6 +2,7 @@
 
 NB: 
 Project is a selenium java project
+
 To execute tests in chrome, ensure chrome version 113 is installed 
 
 
